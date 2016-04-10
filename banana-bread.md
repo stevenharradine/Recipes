@@ -2,7 +2,7 @@
  * **Source**: http://www.simplyrecipes.com/recipes/banana_bread/
  * **Prep time**: 10 minutes
  * **Cook time**: 55 minutes
- * **Yeild**: 1 loaf
+ * **Yield**: 1 loaf
 
 ## Ingredients
  * 2-3 very ripe bananas, peeled
