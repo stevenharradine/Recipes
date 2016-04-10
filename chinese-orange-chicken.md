@@ -2,30 +2,30 @@ Source: http://damndelicious.net/2013/10/19/chinese-orange-chicken/
 
 # Chinese Orange Chicken
 
-Prep Time: 40 minutes
-Cook Time: 10 minutes
-Total Time: 50 minutes
-Yield: 4 servings
+ * Prep Time: 40 minutes
+ * Cook Time: 10 minutes
+ * Total Time: 50 minutes
+ * Yield: 4 servings
 
 ## Ingredients
-1 1/2 pounds boneless, skinless chicken breasts, cut into 1-inch chunks
-1 cup 2 tablespoons cornstarch, divided
-2 large eggs, beaten
-1 cup vegetable oil
-1/2 teaspoon sesame seeds
-1 green onion, thinly sliced
+ * 1 1/2 pounds boneless, skinless chicken breasts, cut into 1-inch chunks
+ * 1 cup 2 tablespoons cornstarch, divided
+ * 2 large eggs, beaten
+ * 1 cup vegetable oil
+ * 1/2 teaspoon sesame seeds
+ * 1 green onion, thinly sliced
 
 ### For the marinade
-1 cup chicken broth
-1/2 cup freshly squeezed orange juice
-1/2 cup sugar
-1/3 cup distilled white vinegar
-1/4 cup soy sauce
-2 cloves garlic, minced
-1 tablespoon orange zest
-1 teaspoon Sriracha, or more, to taste
-1/4 teaspoon ground ginger
-1/4 teaspoon white pepper
+ * 1 cup chicken broth
+ * 1/2 cup freshly squeezed orange juice
+ * 1/2 cup sugar
+ * 1/3 cup distilled white vinegar
+ * 1/4 cup soy sauce
+ * 2 cloves garlic, minced
+ * 1 tablespoon orange zest
+ * 1 teaspoon Sriracha, or more, to taste
+ * 1/4 teaspoon ground ginger
+ * 1/4 teaspoon white pepper
 
 ## Instructions
 
