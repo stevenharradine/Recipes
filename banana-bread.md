@@ -6,13 +6,13 @@
 
 ## Ingredients
  * 2-3 very ripe bananas, peeled
- * 1/3 cup melted butter
- * 3/4 cup sugar (1/2 cup if you would like it less sweet, 1 cup if more sweet)
+ * ⅓ cup melted butter
+ * ¾ cup sugar (½ cup if you would like it less sweet, 1 cup if more sweet)
  * 1 egg, beaten
  * 1 teaspoon vanilla extract
  * 1 teaspoon baking soda
  * Pinch of salt
- * 1 1/2 cups of all-purpose flour
+ * 1½ cups of all-purpose flour
 
 ## Directions
 1. Preheat the oven to 350°F (175°C), and butter a 4x8-inch loaf pan.
