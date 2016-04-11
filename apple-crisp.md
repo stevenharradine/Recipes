@@ -6,10 +6,10 @@
  * 1 tablespoon sugar
 
 ### topping
- * 3/4 cups flour
- * 1/2 cups brown sugar
- * 1/4 tsp salt
- * 1/3 cups margarine
+ * ¾ cups flour
+ * ½ cups brown sugar
+ * ¼ tsp salt
+ * ⅓ cups margarine
 
 ## Directions
 1. peel, core and cut up apples
