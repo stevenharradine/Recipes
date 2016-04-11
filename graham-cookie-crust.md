@@ -1,7 +1,7 @@
-# Grahm Cookie Crust
+# Graham Cookie Crust
 
 ## Ingredients
- * 1/2 cups Grahm cracker crumbs
+ * 1/2 cups graham cracker crumbs
  * 1/4 cups white sugar
  * 1/4 cups melted butter
 
