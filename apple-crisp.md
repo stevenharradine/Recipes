@@ -16,4 +16,4 @@
 2. spread in dish and sprinkle lemon juice and sugar over top
 3. mix flour, brown sugar, salt and butter together till forms 3mm to 5mm chunks
 4. spread over apples
-5. bake at 375 degrees f for 45 - 50 minutes
+5. bake at 375°F (190°C) for 45 - 50 minutes
