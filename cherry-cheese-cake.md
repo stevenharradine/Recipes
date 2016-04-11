@@ -3,9 +3,9 @@
 ## Ingredients
  * 8 ounce package cream cheese
  * 1 can eagle brand seerened condencesed milk
- * 1/3 cup lemon juice
+ * ⅓ cup lemon juice
  * 1 tsp vanilla
- * 1/2 can E.D Smith cherry pie filling
+ * ½ can E.D Smith cherry pie filling
  * 1 [grahm cookie pie crust](https://github.com/stevenharradine/Recipes/blob/master/grahm-cookie-crust.md)
 
 ## Directions
