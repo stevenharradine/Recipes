@@ -1,10 +1,9 @@
-Source: http://damndelicious.net/2013/10/19/chinese-orange-chicken/
-
 # Chinese Orange Chicken
- * Prep Time: 40 minutes
- * Cook Time: 10 minutes
- * Total Time: 50 minutes
- * Yield: 4 servings
+ * **Source**: http://damndelicious.net/2013/10/19/chinese-orange-chicken/
+ * **Prep time**: 40 minutes
+ * **Cook time**: 10 minutes
+ * **Total time**: 50 minutes
+ * **Yield**: 4 servings
 
 ## Ingredients
  * 1 1/2 pounds boneless, skinless chicken breasts, cut into 1-inch chunks
