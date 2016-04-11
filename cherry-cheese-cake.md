@@ -6,7 +6,7 @@
  * ⅓ cup lemon juice
  * 1 tsp vanilla
  * ½ can E.D Smith cherry pie filling
- * 1 [grahm cookie pie crust](https://github.com/stevenharradine/Recipes/blob/master/grahm-cookie-crust.md)
+ * 1 [grahm cookie pie crust](https://github.com/stevenharradine/Recipes/blob/master/graham-cookie-crust.md)
 
 ## Directions
 1. Mix cream cheese, condenced milk, lemon juice, and vanilla in a bow and put in fridge for 30 minutes.
