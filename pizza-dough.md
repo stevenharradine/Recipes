@@ -6,7 +6,7 @@
 
 ## Ingredients
  * 1 (.25 ounce) package active dry yeast
- * 1 cup warm water (110 degrees F/45 degrees C)
+ * 1 cup warm water (110°F/45°C)
  * 2 cups bread flour
  * 2 tablespoons olive oil
  * 1 teaspoon salt
@@ -14,5 +14,5 @@
 
 ## Directions
 1. In a small bowl, dissolve yeast in warm water. Let stand until creamy, about 10 minutes.
-2. In a large bowl, combine 2 cups bread flour, olive oil, salt, white sugar and the yeast mixture; stir well to combine. Beat well until a stiff dough has formed. Cover and rise until doubled in volume, about 30 minutes. Meanwhile, preheat oven to 350 degrees F (175 degrees C).
+2. In a large bowl, combine 2 cups bread flour, olive oil, salt, white sugar and the yeast mixture; stir well to combine. Beat well until a stiff dough has formed. Cover and rise until doubled in volume, about 30 minutes. Meanwhile, preheat oven to 350°F (175°C).
 3. Turn dough out onto a well floured surface. Form dough into a round and roll out into a pizza crust shape. Cover with your favorite sauce and toppings and bake in preheated oven until golden brown, about 20 minutes.

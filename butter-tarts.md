@@ -12,4 +12,4 @@
 1. beat butter, brown sugar and milk
 2. mix in raisins and vanilla
 3. Pour into pastry shells (fill ⅓)
-4. Bake 400 degrees 12 minutes
+4. Bake 400°F 12 minutes

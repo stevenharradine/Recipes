@@ -2,15 +2,15 @@
 
 ## Ingredients
  * 1 cup sugar
- * 1/3 cup cocoa
+ * ⅓ cup cocoa
 
 ### Stir in:
- * 1/4 cup butter
- * 1/4 cup milk
+ * ¼ cup butter
+ * ¼ cup milk
  * 1 tbsp corn syrup
 
 ### After heating
- * 2 1/2 - 3 cups of icing sugar
+ * 2½ - 3 cups of icing sugar
  * 1 teaspoon vanilla
 
 ## Directions

@@ -1,17 +1,13 @@
 # Grandma's Shortbread cookies
 
 ## Ingredients
-1/2 cups cornstarch
-1/2 cups icing cugar
-1 cup flour
-3/4 cups butter
+ * ½ cups cornstarch
+ * ½ cups icing cugar
+ * 1 cup flour
+ * ¾ cups butter
 
 ## Directions
-
-Bake at 300 degrees for 20 - 25 minutes
-
-sift and blend all ingredients
-
-roll into 1" balls and flatten with fork.
-
-Place on ungressed cookie sheet.
+1. sift and blend all ingredients
+2. roll into 1" balls and flatten with fork.
+3. place on ungressed cookie sheet.
+4. bake at 300°F for 20 - 25 minutes
