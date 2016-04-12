@@ -16,4 +16,4 @@
 4. add cold water till 1 cup mark
 5. kneed liquid mixture into dry mixture
 
-**Note**: Put in large freeer bag and kneed in the bag
+**Note**: Put in large freezer bag and kneed in the bag
