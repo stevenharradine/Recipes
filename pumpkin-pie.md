@@ -9,4 +9,4 @@
  * 2 cups packed brown sugar
  * 2 tsp ground cinnamon
  * 1/2 tsp salt
- * 3/4 cup evaporated milk
+ * 1 1/2 cup evaporated milk
