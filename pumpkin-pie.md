@@ -1,5 +1,5 @@
 # Pumpkin Pie
- * **Source**: 
+ * **Source**: http://www.edsmith.com/en/recipes/traditional-pumpkin-pie/
  * **Yeild**: 2 pies
 
 ## Ingredients
