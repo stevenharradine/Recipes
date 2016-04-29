@@ -2,7 +2,7 @@
 
 ## Ingredients
  * 8 ounce package cream cheese
- * 1 can eagle brand sweetened condencesed milk
+ * 1 can eagle brand sweetened condensed milk
  * ⅓ cup lemon juice
  * 1 tsp vanilla
  * ½ can E.D Smith cherry pie filling
