@@ -10,7 +10,7 @@
  * 1 cup cold water (actually a little less)
 
 ## Directions
-1. mix flour, making powder and salt
+1. mix flour, baking powder and salt
 2. cut in shortening
 3. in seperate measuring cup mix vinegar and egg
 4. add cold water till 1 cup mark
