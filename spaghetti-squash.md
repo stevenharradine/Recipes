@@ -1,0 +1,2 @@
+# Spaghetti Squash
+Cut lengthwise and remove seeds. Bake cut side down 10 minutes at 350F. Turn and bake till skin turns ender. (or boil 20 minutes in covered pot in 4 cm of water.) With fork release spaghetti-like strands of cooked squash. Add salt, pepper, bacon bits, parmesan, or serve as low calorie pasta with spaghetti sauce.
