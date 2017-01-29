@@ -5,7 +5,7 @@
  * **Total time**: 1 hour 5 minutes
 
 ## Ingredients
- * 1 (.25 ounce) package active dry yeast
+ * 1 (.25 ounce or 2 1/4 tsp) package active dry yeast
  * 1 cup warm water (110°F/45°C)
  * 2 cups bread flour
  * 2 tablespoons olive oil
