@@ -2,17 +2,17 @@
 Program Setting: 6 (Sweet)
 
 ## Ingredients
-2 large eggs, at room tempature
-1 1/2 cups water (80 to 90°F)
-1/4 cup dry skim milk powder
-3 tbsp. firmly packed dark brown surgar
-1 tsp. ground cinnamon
-2 tsp. salt
-1/3 cup butter or margarine, cut into pieces
-5 cups bread flour
-2 1/4 tsp active dry or bread machine yeast
-1 cup raisins
-2/3 cup chopped pecans
+ * 2 large eggs, at room tempature
+ * 1 ½ cups water (80 to 90°F)
+ * ¼ cup dry skim milk powder
+ * 3 tbsp. firmly packed dark brown surgar
+ * 1 tsp. ground cinnamon
+ * 2 tsp. salt
+ * ⅓ cup butter or margarine, cut into pieces
+ * 5 cups bread flour
+ * 2 ¼ tsp active dry or bread machine yeast
+ * 1 cup raisins
+ * ⅔ cup chopped pecans
 
 ## Directions
 1. Measure ingredients, except raisins and pecans into bread pan in the order listed.

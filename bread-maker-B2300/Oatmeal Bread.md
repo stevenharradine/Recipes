@@ -2,14 +2,14 @@
 Program setting: 2 (Rapid Bake I)
 
 ## Ingredients
-1 1/2 cups buttermilk (110 to 120°F.)
-2 tbsp. butter or margarine, cut into pieces
-2 tbsp. maple syrup (not pancake syrup)
-1 cup quick cooking oatmeal
-1 tsp. salt
-4 cups bread flour
-4 tsp. vital wheat gluten
-3 tsp. rapid rise yeast
+ * 1 ½ cups buttermilk (110 to 120°F.)
+ * 2 tbsp. butter or margarine, cut into pieces
+ * 2 tbsp. maple syrup (not pancake syrup)
+ * 1 cup quick cooking oatmeal
+ * 1 tsp. salt
+ * 4 cups bread flour
+ * 4 tsp. vital wheat gluten
+ * 3 tsp. rapid rise yeast
 
 ## Directions
 1. Measure ingredients in order listed into bread pan.

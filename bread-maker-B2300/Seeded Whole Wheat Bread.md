@@ -2,18 +2,18 @@
 Program setting: 5 (Whole Grain)
 
 ## Ingredients
-2 cups butter milk (80 to 90°F.)
-1/4 cup water (80 to 90°F.)
-2 tbsp. unsalted butter or margarine, cut into peices
-2 tbsp. maple syrup
-1 tbsp. grated orange peel
-2 tsp. salt
-2 cups whole wheat flour
-4 cups bread flour
-3 tsp. active dry or bread machine yeast
-2 tsp. vital wheat gluten (optional)
-1/2 cup flax seeds
-2 tbsp. sesame seeds
+ * 2 cups butter milk (80 to 90°F.)
+ * ¼ cup water (80 to 90°F.)
+ * 2 tbsp. unsalted butter or margarine, cut into peices
+ * 2 tbsp. maple syrup
+ * 1 tbsp. grated orange peel
+ * 2 tsp. salt
+ * 2 cups whole wheat flour
+ * 4 cups bread flour
+ * 3 tsp. active dry or bread machine yeast
+ * 2 tsp. vital wheat gluten (optional)
+ * ½ cup flax seeds
+ * 2 tbsp. sesame seeds
 
 ## Directions
 1. Measure ingredients in order listed into bread pan.

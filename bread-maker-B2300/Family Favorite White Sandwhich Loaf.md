@@ -2,13 +2,13 @@
 Program setting: 4 (Sandwhich)
 
 ## Ingredients
-2 cups water (80 to 90°F.)
-3 tbsp. butter or margarine, cut into pieces
-1 tsp. salt
-3 tbsp. dry milk powder
-4 tbsp. sugar
-5 1/2 cups bread flour
-1 1/4 tsp. active dry or bread machine yeast
+ * 2 cups water (80 to 90°F.)
+ * 3 tbsp. butter or margarine, cut into pieces
+ * 1 tsp. salt
+ * 3 tbsp. dry milk powder
+ * 4 tbsp. sugar
+ * 5 ½ cups bread flour
+ * 1 ¼ tsp. active dry or bread machine yeast
 
 ## Directions
 1.  Measure ingredients into bread pan in the order listed

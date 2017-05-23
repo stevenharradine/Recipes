@@ -2,17 +2,17 @@
 Program Setting: 7 (Quick Bread)
 
 ## Ingredients
-1 cup boiling water
-1 cup chopped dates
-1 tsp. baking soda
-2 large eggs, at room tempature
-1 3/4 cups unsifted all-purpose flour
-3/4 firmly packed dark brown sugar
-1 tsp. baking soda
-1/2 tsp. salt
-1/4 cup soften unsalted butter or margarine
-1 1/2 tsp. vanilla extract
-1 cup chopped walnuts
+ * 1 cup boiling water
+ * 1 cup chopped dates
+ * 1 tsp. baking soda
+ * 2 large eggs, at room tempature
+ * 1 ¾ cups unsifted all-purpose flour
+ * ¾ firmly packed dark brown sugar
+ * 1 tsp. baking soda
+ * ½ tsp. salt
+ * ¼ cup soften unsalted butter or margarine
+ * 1 ½ tsp. vanilla extract
+ * 1 cup chopped walnuts
 
 ## Directions
 1. Pour boiling water over dates in small bowl.  Add baking soda. Let stand at room temperature for 20 minutes.

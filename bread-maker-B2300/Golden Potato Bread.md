@@ -2,15 +2,15 @@
 Program setting: 1 (Basic)
 
 ## Ingredients
-3/4 cup potato cooking water (80 to 90°F.)*
-2 tbsp. unsalted butter or margarine, cut into pieces
-3 tbsp. dry skim milk powder
-2 tbsp. potato starch
-1 tsp. granulated sugar
-1 1/2 tsp. salt
-1 large egg, at room tempature
-4 cups bread flour
-2 1/4 tsp. active dry or bread machine yeast
+ * ¾ cup potato cooking water (80 to 90°F.)*
+ * 2 tbsp. unsalted butter or margarine, cut into pieces
+ * 3 tbsp. dry skim milk powder
+ * 2 tbsp. potato starch
+ * 1 tsp. granulated sugar
+ * 1 ½ tsp. salt
+ * 1 large egg, at room tempature
+ * 4 cups bread flour
+ * 2 ¼ tsp. active dry or bread machine yeast
 
 ## Directions
 1. Measure ingredients into bread pan in the order listed.

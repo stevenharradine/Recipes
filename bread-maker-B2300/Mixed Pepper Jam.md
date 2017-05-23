@@ -2,16 +2,16 @@
 Program Setting: 10 (Preserves)
 
 ## ingredients
-1 bunch green Onions, sliced
-1 medium red bell pepper, seeded and diced
-1 medium green bell pepper, seeded and diced
-4 large jalapeno peppers, seeded and diced
-1/2 Cup chopped cilantro
-1/2 Cup chopped sun dried tomatoes
-4cups sugar
-1pkg (1.75 oz.) powdered pectin
-2 large coves garlic, minced
-4 cup cider vinegar
+ * 1 bunch green Onions, sliced
+ * 1 medium red bell pepper, seeded and diced
+ * 1 medium green bell pepper, seeded and diced
+ * 4 large jalapeno peppers, seeded and diced
+ * ½ Cup chopped cilantro
+ * ½ Cup chopped sun dried tomatoes
+ * 4cups sugar
+ * 1pkg (1.75 oz.) powdered pectin
+ * 2 large coves garlic, minced
+ * 4 cup cider vinegar
 
 ## Directions
 1. Measure ingredients in order iisted into bread, pan.
@@ -23,4 +23,4 @@ Program Setting: 10 (Preserves)
 7. Place in refrigerator to set.
 8. Store in refrigerator for up to 3 weeks.
 
-Makes about 3 1/2 cups
+Makes about 3 ½ cups
