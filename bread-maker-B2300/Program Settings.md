@@ -2,7 +2,7 @@
 The following program settings will make it easy for you to make a great variety of bread doughs and preserves. For each selected setting, the baking time has been preprogrammed. The recipes provided on pages 14-22 will help you determine which program setting you should use.
 
 | Program Setting | Menu # Displayed | 2.0LB | 2.5LB | 3.0LB | Description |
-|:---------------:|:----------------:|:-----:|:-----:|:-----:|:-----------:|
+|:---------------:|:----------------:|:-----:|:-----:|:-----:|:----------- |
 | Basic           | 1                | 3:20  | 3:30  | 3:30  | You can use this setting for most recipes that use white flour |
 | Rapid-Bake I    | 2                | 1:28  | NA    | NA    | Quickly bakes 2.0-lb size loaf of white bread. |
 | Rapid-Bake II   | 3                | NA    | 1:38  | NA    | Quickly bakes 2.5-lb size loaf of white bread. |
