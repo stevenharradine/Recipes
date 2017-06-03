@@ -3,7 +3,7 @@
 ## Ingredients
  * 5 Apples, cored, diced
  * 3/4 Cups water
- * 1 1/4 Cups sugar
+ * 1 1/2 Cups sugar
  * 3/4 tsp cinnamon
 
 ## Directions
