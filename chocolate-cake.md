@@ -26,6 +26,6 @@
 3. Add milk, vegetable oil, eggs, and vanilla to flour mixture and mix together on medium speed until well combined. Reduce speed and carefully add boiling water to the cake batter until well combined.
 4. Distribute cake batter evenly between the two prepared cake pans. Bake for 30-35 minutes, until a toothpick or cake tester inserted in the center of the chocolate cake comes out clean.
 5. Remove from the oven and allow to cool for about 10 minutes, remove from the pan and cool completely.
-Frost cake with Butter icing.
+6. Frost cake with Butter icing.
 
 **Notes:** The cake batter will be very thin after adding the boiling water. This is correct and results in the most delicious and moist chocolate cake I've ever tasted!
