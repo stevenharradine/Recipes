@@ -1,8 +1,8 @@
 # gummies
 ## Ingredients
-1/2 cup of water
-2 tbsp gelatine
-1 package (85g) flavored jello
+ * 1/2 cup of water
+ * 2 tbsp gelatine
+ * 1 package (85g) flavored jello
 
 ## Directions
 1. mix water, gelatine and jello together
