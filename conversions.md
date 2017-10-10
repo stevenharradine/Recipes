@@ -6,4 +6,4 @@
 
 ## Miscellaneous
 1 inch slice of brick cheese = ½ cup shreaded
-1 package of yeast = 2½ tsp
+1 package of yeast = 2¼ tsp
