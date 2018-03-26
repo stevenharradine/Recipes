@@ -21,7 +21,7 @@ source: http://www.geniuskitchen.com/recipe/crusty-french-bread-101476 @ 04:16 U
 8) Preheat the oven to 375°F (190°C) with empty baking sheet in the bottom of the oven
 9) Place bread in the oven, 1 rung above the empty baking sheet
 
-**WARNING:** This next step will produce steam and all saftey precautions should caution should be taken
+**WARNING:** This next step will produce steam and all saftey precautions should should be taken
 
 10) Pour Water onto empty baking tray (Keep back as this will produce a lot of steam which will help with the crust formation)
 11) Bake for 30 minutes
