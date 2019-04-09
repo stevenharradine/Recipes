@@ -1,13 +1,14 @@
 # Pancakes
+Source: https://www.marthastewart.com/338185/basic-pancakes @ 20190409T21:00:00UTC
 
 ## Ingredients
- * 1½ cups all-purpose flour
- * 3½ teaspoons baking powder
- * 1 teaspoon salt
- * 1 tablespoon white sugar
- * 1¼ cups milk
+ * 1 cups all-purpose flour
+ * 2 teaspoons baking powder
+ * ½ teaspoon salt
+ * 2 tablespoon sugar
+ * 1 cup milk
  * 1 egg
- * 3 tablespoons butter, melted
+ * 1 tablespoon butter, melted or oil
 
 ## Directions
 1. In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.
