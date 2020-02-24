@@ -1,7 +1,7 @@
 # Apple Pie
 
 ## Ingredients
- * 2 sheets of pastry
+ * 2 [pastry sheet](https://github.com/stevenharradine/Recipes/blob/master/pastry.md)
  * 3 cups of apple pie filling
 
 ## Directions
