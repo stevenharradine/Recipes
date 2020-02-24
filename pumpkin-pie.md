@@ -11,7 +11,7 @@
  * 1/2 tsp salt
  * 1 1/2 cup evaporated milk
 
-# Directions
+## Directions
 1. Preheat oven to 425°F (220°C)
 2. Roll out pastry and place in 2 pie plate, making sure the pastry works its way into all the corners of the plate
 3. Mix all ingredients in a bowl
