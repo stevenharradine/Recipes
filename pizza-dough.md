@@ -1,16 +1,16 @@
 # Pizza Dough
- * **Source**: http://allrecipes.com/recipe/23290/pizza-dough-iii/
+ * **Source**: https://www.seriouseats.com/basic-new-york-style-pizza-dough
  * **Prep time**: 15 minutes
  * **Cook time**: 20 minutes
  * **Total time**: 1 hour 5 minutes
 
 ## Ingredients
- * 1 (.25 ounce or 2 1/4 tsp) package active dry yeast
- * 1 cup warm water (110°F/45°C)
- * 2 cups bread flour
- * 2 tablespoons olive oil
- * 1 teaspoon salt
- * 2 teaspoons white sugar
+ * 22.5 ounces bread flour, plus more for dusting (630g; about 4 1/2 cups)
+ * .5 ounces sugar (15g; about 1 1/2 tablespoons)
+ * .35 ounces kosher salt (10g; about 1 tablespoon)
+ * .35 ounces instant yeast, such as SAF Instant Yeast (10g; about 2 teaspoons)
+ * 1.125 ounces Extra Virgin olive oil (32g; about 3 tablespoons)
+ * 15 ounces lukewarm water (420g; about 1 3/4 cups)
 
 ## Directions
 1. In a small bowl, dissolve yeast in warm water. Let stand until creamy, about 10 minutes.
