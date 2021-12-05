@@ -1,10 +1,11 @@
 # Rice krispies squares
+source: Kelloggs Rice Krispies Box
 
 ## Ingredients
- * 1/4 cup butter
- * 1/2 tsp vanilla
- * 5 cups (250g) marshmallows
- * 6 cups rice krispies
+ * 50ml 1/4 cup 82.5g melted butter
+ * 2.25L 250g marshmellows
+ * 2.5ml 1/2 teaspoon 2.5g vanilla
+ * 1.5L 6 cups 170g rice krispies
 
 ## Directions
 1) Melt butter in microwave for 30 - 45 seconds (until melted)
