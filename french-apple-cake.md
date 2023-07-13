@@ -4,13 +4,13 @@
 * **Servings**: 6-8
 
 ## Ingredients
- * 1 cup all-purpose flour, spooned into measuring cup and leveled-off
- * 1 teaspoon baking powder
- * ¼ teaspoon salt
- * 1 stick (½ cup) unsalted butter, at room temperature
- * ⅔ cup granulated sugar, plus more for sprinkling over cake
+ * 160g (1 cup) all-purpose flour, spooned into measuring cup and leveled-off
+ * 4.5g (1 teaspoon) baking powder
+ * 2g (¼ teaspoon) salt
+ * 110g (½ cup) unsalted butter, at room temperature
+ * 145g (⅔ cup) granulated sugar, plus more for sprinkling over cake
  * 2 large eggs
- * 1 teaspoon vanilla extract
+ * 5g (1 teaspoon) vanilla extract
  * 3 tablespoons dark rum
  * 2 sweet baking apples, peeled, cored and cut into ½-inch cubes (I like Honeycrisp, Fuji or Golden Delicious)
  * Confectioners' sugar (optional), for decorating cake
